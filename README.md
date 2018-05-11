@@ -1,7 +1,7 @@
 安装
 ---
 执行命令
-1. `make setup`,
+1. `make setup`
 2. `make startup`
 
 目录结构
@@ -44,3 +44,13 @@
 └── yii
 
 ```
+
+访问
+---
+
+- api
+  - http://localhost:4000/api/users
+- frontend
+  - http://localhost:4000/frontend/site/index
+- backend 
+  - http://localhost:4000/backend/site/index
