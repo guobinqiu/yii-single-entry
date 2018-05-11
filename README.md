@@ -1,3 +1,9 @@
+安装
+---
+执行命令
+1. `make setup`,
+2. `make startup`
+
 目录结构
 ---
 
